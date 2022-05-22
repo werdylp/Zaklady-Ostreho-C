@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace prirozenaMocnina
+namespace D6
 {
     internal class Program
     {
