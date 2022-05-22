@@ -13,7 +13,7 @@ namespace prirozenaMocnina
             int cislo = puvodniCislo;
             
             Console.Write("kolikrat ho mam umocnit");
-            int mocnina = int.Parse(Console.ReadLine());
+            int mocnina = Convert.ToInt32(Console.ReadLine());
 
 
             for (int i = 1; i < mocnina; i++)
